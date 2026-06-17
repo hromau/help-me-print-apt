@@ -1,0 +1,16 @@
+Package: help-me-print
+Version: 0.1.8
+Architecture: amd64
+Maintainer: Easure
+Installed-Size: 153703
+Depends: libc6
+Filename: pool/main/h/help-me-print/help-me-print_0.1.8_amd64.deb
+Size: 32708578
+MD5sum: 23b71d1617b8159e5ff892b1d6116055
+SHA1: 90c94c2dbbaadc82613900006239d0f38b0fd5e1
+SHA256: 88354d5713e497181fc41a30cf0410ae24dcd1c9dc4cc7fba302ae5295fee496
+Section: utils
+Priority: optional
+Description: Manual duplex printing for printers without automatic double-sided support
+ Help Me Print helps you print PDF documents double-sided on printers that do not support automatic duplex printing. It guides odd and even passes, remembers printer behavior, and reuses saved printer profiles.
+
