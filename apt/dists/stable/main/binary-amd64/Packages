@@ -1,14 +1,14 @@
 Package: help-me-print
-Version: 0.1.10
+Version: 0.1.12
 Architecture: amd64
 Maintainer: Easure
 Installed-Size: 153703
 Depends: libc6
-Filename: pool/main/h/help-me-print/help-me-print_0.1.10_amd64.deb
-Size: 32708842
-MD5sum: 9ca6b2bd34c22497e9998c419e06a5c7
-SHA1: 1dfd491376fc1beb1f1f7573914e7a163b901ad7
-SHA256: 71c9b74c8ee43881da0a437971cdae2b99d39e22db477c861bf502cebb53c66f
+Filename: pool/main/h/help-me-print/help-me-print_0.1.12_amd64.deb
+Size: 32708776
+MD5sum: 1a0a78193bfa2023d25b50218f7aefd3
+SHA1: 69a12f51859ac77aa5aa730252fa09113113a374
+SHA256: 8c2a584e32d526e4bba28b35dbdc428987285a5686da952dc825249c56479349
 Section: utils
 Priority: optional
 Description: Manual duplex printing for printers without automatic double-sided support
