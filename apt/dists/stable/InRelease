@@ -1,27 +1,27 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Mon, 17 Aug 2026 16:17:22 +0000
+Date: Tue, 18 Aug 2026 20:14:58 +0000
 MD5Sum:
- 656daf585e85bf976b70086197e0d8ca               38 Release
- 67367578dacfd6bb55fda406260d6d8e              693 main/binary-amd64/Packages
- e9ad072415195f62d029fd781a617309              467 main/binary-amd64/Packages.gz
+ b3b362095e8dce19d869bd94dda27830               38 Release
+ 9d28fb65b301601c0bb11136c731780a              693 main/binary-amd64/Packages
+ 5a13e4bfea6f3f19a477f1a206f33774              469 main/binary-amd64/Packages.gz
 SHA1:
- f6c8144a476c080c28fa9632a43a1b1b31b8f095               38 Release
- abfc83e621a458015050869f48000201cb474921              693 main/binary-amd64/Packages
- e17fce970f3c2b86707e97d2081cccbf228a46b4              467 main/binary-amd64/Packages.gz
+ ca8f8e335273fa1da459f10119f24155dab5d885               38 Release
+ 3dee4fc317b2a4a32bb51ebd0d6ebf93e057defa              693 main/binary-amd64/Packages
+ 0dc6fefbf3a9395fc7c253c6172f06fe4fcd9436              469 main/binary-amd64/Packages.gz
 SHA256:
- 2016cf2f0115841366fd23b7141912f37a07f6f2ffc267549d87a749467ff545               38 Release
- 3d02696e62bcaeb2f6952bb7638d9df5e69e38e2f26e9a5f91f75c9dc3027005              693 main/binary-amd64/Packages
- d1148722d0d55dbe6ad2a69dbd72e3fc265e53a50a440126de4eae00c9650da5              467 main/binary-amd64/Packages.gz
+ ec4d5325e417fc9220e661dccfdde4684ddf17cb0a1bb42cb6e378af04d49e3a               38 Release
+ 62a45a246c99b71720f798d977dbca71b2460cf40f489193b8b36d1c8e49b769              693 main/binary-amd64/Packages
+ aba9525a7f4ffb72bc654b9dc5311a0bf7e083bfbece377629f44521558a20b0              469 main/binary-amd64/Packages.gz
 SHA512:
- 12e238e0706c7ba9366d1a9b8621370fc4968b5178489a2471357b2f6d915d5350e58860909ee3259063aefe033a904431c8b725d42f92b069f4d2d4198211fe               38 Release
- df9ca6efd4f6ed8b10ce0f9e585090b64938dfe29b162accd75093a8468566f708feefbc36787c53c19c9f30ae803e5f6a116ef62f2b29d25936c0e8f8801049              693 main/binary-amd64/Packages
- 66378b7c83fe21c4fc31f742f2501b6614fb4349b3f1950800add983946234275b7d69ce2d022f19112f0bed043cb7e6a8198ba81f926b5f92c762b03a6a5bc7              467 main/binary-amd64/Packages.gz
+ dbb317de787270bff9d88f60fa9e9d26fa3070b9cc88b15423dad5a6b3814e8ac6acf915d023513db8485eb288884c74416065570ef079b32287633e9afce73e               38 Release
+ 5efebd931c1508f6e01e4cf67188d97023d6945e3f9db76cad5b3ff88bcb7c3b7199a9e62e0e79558590098106d9cd2a15ef7edcb3ca8f3c781f96255a3c06f0              693 main/binary-amd64/Packages
+ e6138b2d07e0435633194d1b50c1a1b6320a83994bab6e38ae817a879a8a5021cb18762f22ef6e91641f8d9621eaef4362a9844f213e1814c7cb94d564108eb1              469 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRAfEKoXSH1Dqf4Yo5EGs2vVXIKrAUCaoM0EgAKCRBEGs2vVXIK
-rBD7AQCAQS2wjvCG4Zrcs7aXWze4oxYNceET0vFzNNSNP6LBagD+OQVffny+/3hj
-gfKeJlaxiKHH9Ep4jknNZItbObqZWAw=
-=gSL7
+iHUEARYKAB0WIQRAfEKoXSH1Dqf4Yo5EGs2vVXIKrAUCaoS9QgAKCRBEGs2vVXIK
+rD4HAP4i9rut+J2Rr8sA+jRSBGkmiw09D2tRW4ms/RtQbNFbhQD8DGGlLZHXszlX
+nj81H8rTFhMDJrCidcFJ0H3rpFOFwgw=
+=aXJQ
 -----END PGP SIGNATURE-----
